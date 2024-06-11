@@ -1,4 +1,4 @@
-########## FinWatch (WIP) ##########
+############################################# FinWatch (WIP) #############################################
 A free web app for effortless finance tracking: monitor your income, manage expenses, and visualize your financial health with intuitive graphs and charts
 
 This project serves both as a tool that I'll use daily to track my finances (beats having 13 haphazardly placed graphs on a spreadsheet) and as a way of learning some useful application development concepts, including but not limited to:
@@ -15,4 +15,4 @@ My objective is to fully develop a working web app, ready to be used by anyone w
 
 
 Development of FinWatch was started on the 10th of June, 2024 by Matias Massucco.
-####################################
+##########################################################################################################
